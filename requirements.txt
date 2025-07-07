@@ -1,0 +1,5 @@
+pandas
+requests
+pymongo
+mysql-connector-python
+python-dotenv

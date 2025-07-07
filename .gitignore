@@ -1,0 +1,14 @@
+.env
+.env.*
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+requirements_orig.txt
