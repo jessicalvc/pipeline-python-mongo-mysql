@@ -88,3 +88,12 @@ python • etl • api • mongodb • mysql • portfólio • data-pipeline
 👩‍💻 Autora
 Jessica Cunha
 🔗 linkedin.com/in/jessicaalvescunha/
+
+Antes
+![image](https://github.com/user-attachments/assets/11654cb0-be5e-479a-8107-b2eacaede3ef)
+
+Depois
+![image](https://github.com/user-attachments/assets/aa6f9471-70fc-4c85-ba6e-d43b95eaf555)
+
+![image](https://github.com/user-attachments/assets/87407177-deb4-4236-bc7d-17c83f498ba3)
+
